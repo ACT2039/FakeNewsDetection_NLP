@@ -102,21 +102,25 @@ This indicates strong capability in distinguishing between real and fake news ar
 
 ## Dataset Preview
 
-![Dataset](images/dataset_preview.png)
+![Dataset](images/fake_real_dataset_preview.png)
 
 ---
 
 ## Model Accuracy
 
-![Accuracy](images/accuracy_output.png)
+![Accuracy](images/accuracy_news_detect.png)
 
 ---
 
 ## Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/news_dect_confusion_mat.png)
 
 ---
+
+## Testing the Model (Example) 
+
+![Example](images/fake_real_news_example.png)
 
 # 🛠️ Technologies Used
 
